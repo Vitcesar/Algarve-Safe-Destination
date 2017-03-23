@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\ADS.csproj;x86
+=======
+C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\ADS.csproj;x86
+>>>>>>> 44c30b71af9be95db8964daa74ddde9186839d82

@@ -1,0 +1,12 @@
+﻿<Application
+    x:Class="ADS.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ADS">
+
+    <Application.Resources>
+            <ResourceDictionary Source="Resources/CTemplate.xaml" />
+    </Application.Resources>
+</Application>
+    
+    

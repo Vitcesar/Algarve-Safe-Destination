@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="ADS.Pages.Contactos"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ADS.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:map="using:Windows.UI.Xaml.Controls.Maps"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="WhiteSmoke">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!-- content stack -->
+        <map:MapControl x:Name="map1" Grid.Row="1" Loaded="map1_Loaded" Margin="0 0 0 -2" MapServiceToken="Aj6jrbFFZjyBaH3KwsMxNvTQJqfhxLFEDzlBZT8P9ajdhA0AFrcAqUBUoUVPyWnW" MapTapped="map1_MapTapped" ZoomLevelChanged="map1_ZoomLevelChanged"  >
+            <!-- <ProgressBar Name="pbProgressBar" IsIndeterminate="True" Height="540" Width="400" /> -->
+
+            <map:MapItemsControl x:Name="MapItems" >
+                <map:MapItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel x:Name="MapItemsStack" Background="Transparent" Tapped="StackPanel_Tapped" Holding="MapItemsStack_Holding" >
+                            <Image Source="/Icons/maps-icon.png" 
+                                map:MapControl.Location="{Binding geo}" 
+                                map:MapControl.NormalizedAnchorPoint="{Binding point_n}"  Height="30" Width="30"/>
+                            <TextBlock Text="{Binding Nome}" Foreground="Black" ></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </map:MapItemsControl.ItemTemplate>
+            </map:MapItemsControl>
+        </map:MapControl>
+        
+        <Border x:Name="MyLocationButton" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.Row="1" Margin="5,5,0,0" Tapped="MyLocationButton_Tapped">
+            <Image Width="40" Height="40" Source="/Assets/my_location.png"></Image>
+        </Border>
+
+        <Border x:Name="Caixa" Height="140" VerticalAlignment="Bottom" Grid.Row="1" Visibility="Collapsed" Opacity="0.8" Background="#3b5998" Margin="10 0 10 10">
+            <StackPanel>
+                <TextBlock x:Name="Nome" Opacity="1.0" Text="Entidade:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="10 5 0 0"/>
+                <TextBlock x:Name="Morada" Opacity="1.0" Text="Morada:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" Margin="10 5 0 0"/>
+                <StackPanel x:Name="phone_stack"  Orientation="Horizontal" Margin="10,5,0,0" Tapped="phone_stack_Tapped" >
+                    <Image Width="25" Height="25" Source="/Icons/phone.png"></Image>
+                    <TextBlock x:Name="teleBlc" Opacity="1.0" Text="Telefone:" FontSize="20" Margin="6 0 0 0" />
+                    <TextBlock x:Name="Telefone" Opacity="1.0" Text="12345678" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="6 0 0 0"/>
+                </StackPanel>
+                <StackPanel x:Name="email_stack" Orientation="Horizontal" Margin="10,5,0,0" Tapped="email_stack_Tapped">
+                    <Image Width="25" Height="25" Source="/Icons/white-email.png"></Image>
+                    <TextBlock x:Name="emailBlc" Opacity="1.0" Text="Email:" FontSize="20" Margin="6 0 0 0" />
+                    <TextBlock x:Name="Email" Opacity="1.0" Text="randomemail@ualg.pt" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="6 0 0 0"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

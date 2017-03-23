@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="ADS.Pages.SearchResults"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ADS.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <!-- content stack -->
+        <StackPanel Background="WhiteSmoke" Grid.Row="1">
+            <ListBox x:ConnectionId='1' BorderBrush="#8b9dc3" Height="auto" BorderThickness="0" MaxHeight="580" Grid.Row="1" x:Name="listBoxobj" Margin="0,0,0,80" Background="WhiteSmoke"                                               >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderThickness="0">
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <TextBlock Grid.Row="0" Grid.Column="0" x:Name="TituloTxt" TextWrapping="Wrap" Text="{Binding nametitle}" FontSize="18" Margin="10,0,10,0"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Page>
+

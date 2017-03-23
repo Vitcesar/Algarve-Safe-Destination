@@ -1,0 +1,203 @@
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\App.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\App.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\MainPage.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ClosestPolice.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ClosestPolice.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\FirstRun.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\FirstRun.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Definicoes.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Definicoes.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Contactos.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Contactos.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Conteudo.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Conteudo.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ListaEntidades.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ListaEntidades.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\SearchResults.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\SearchResults.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Subtopicos.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Subtopicos.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Temas.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Temas.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\MainMenu.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\MainMenu.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Topicos.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Topicos.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Resources\CTemplate.g.i.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Resources\CTemplate.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\App.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\MainPage.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ClosestPolice.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\FirstRun.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Definicoes.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Contactos.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Conteudo.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ListaEntidades.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\SearchResults.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Subtopicos.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Temas.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\MainMenu.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Topicos.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Resources\CTemplate.xaml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\App.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\MainPage.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ClosestPolice.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\FirstRun.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Definicoes.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Contactos.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Conteudo.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\ListaEntidades.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\SearchResults.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Subtopicos.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Temas.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\MainMenu.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Pages\Topicos.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\Resources\CTemplate.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\ads.sqlite
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\App.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\MainPage.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\ClosestPolice.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Detalhe_Entidade.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\FirstRun.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Definicoes.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Contactos.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Conteudo.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\ListaEntidades.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\SearchResults.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Subtopicos.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Temas.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\MainMenu.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Pages\Topicos.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Resources\CTemplate.xbf
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\ADS.xr.xml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\ADS.exe
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\ADS.pdb
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\resources.pri
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\AppxManifest.xml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\ADS.build.appxrecipe
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\ADS.csprojResolveAssemblyReference.cache
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\ADS.exe
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\ADS.pdb
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\ADS.csproj.GenerateResource.Cache
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\priconfig.xml
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\layout.resfiles
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\resources.resfiles
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\pri.resfiles
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\qualifiers.txt
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tomás\Source\Workspaces\LES_1415_g02\ADS_Solution\ADS\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\ADS.exe
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\ADS.pdb
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\ads.sqlite
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\App.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\MainPage.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\ClosestPolice.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Detalhe_Entidade.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\FirstRun.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Definicoes.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Contactos.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Conteudo.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\ListaEntidades.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\SearchResults.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Subtopicos.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Temas.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\MainMenu.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Topicos.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Resources\CTemplate.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\ADS.xr.xml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\ADS.exe
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\ADS.pdb
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\resources.pri
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\AppxManifest.xml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\ADS.build.appxrecipe
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\ADS.csprojResolveAssemblyReference.cache
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\App.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\App.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\MainPage.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ClosestPolice.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ClosestPolice.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\FirstRun.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\FirstRun.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Definicoes.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Definicoes.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Contactos.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Contactos.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Conteudo.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Conteudo.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ListaEntidades.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ListaEntidades.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\SearchResults.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\SearchResults.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Subtopicos.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Subtopicos.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Temas.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Temas.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\MainMenu.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\MainMenu.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Topicos.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Topicos.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Resources\CTemplate.g.i.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Resources\CTemplate.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\App.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\MainPage.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ClosestPolice.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\FirstRun.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Definicoes.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Contactos.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Conteudo.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ListaEntidades.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\SearchResults.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Subtopicos.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Temas.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\MainMenu.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Topicos.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Resources\CTemplate.xaml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\App.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\MainPage.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ClosestPolice.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Detalhe_Entidade.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\FirstRun.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Definicoes.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Contactos.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Conteudo.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\ListaEntidades.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\SearchResults.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Subtopicos.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Temas.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\MainMenu.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Pages\Topicos.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\Resources\CTemplate.xbf
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\ADS.csproj.GenerateResource.Cache
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\priconfig.xml
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\layout.resfiles
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\resources.resfiles
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\pri.resfiles
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\qualifiers.txt
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vitor César\Desktop\LES\W_P\Local\ADS\obj\x86\Debug\ProjectArchitectures.txt

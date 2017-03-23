@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="ADS.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ADS"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="True" x:Name="appBar" Background="LightGray" Foreground="#3b5998" IsOpen="True">
+            <AppBarButton x:Name="Home_Button" Icon="Home" Label="Início" Click="AppBarButton_Click" />
+            <AppBarButton x:Name="SOS_Button" Label="SOS" Icon="Phone" Click="SOS_Button_Click" />
+            <AppBarButton x:Name="Help_Button" Icon="Help" Label="Ajuda" />
+            <AppBarButton x:Name="Settings_Button" Label="Definições" Icon="Setting" Click="Settings_Button_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" >
+            <Border Height="50" Background="#3b5998">
+                <TextBlock x:Name="AppTitle" Text="Algarve Destino Seguro" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="26" />
+            </Border>
+            <StackPanel x:Name="searchpanel" Orientation="Horizontal" Grid.Row="0" Background="LightGray" Height="50">
+                <TextBox x:Name="searchbox" TabIndex="2" Height="40" Width="340" Background="WhiteSmoke" Margin="4,2,2,2" VerticalAlignment="Center" KeyDown="searchbox_KeyDown" ></TextBox>
+                <Button  Name="search_button" TabIndex="1" MinWidth="50" Width="50" Height="50" Background="Transparent" BorderThickness="0" Template="{StaticResource ButtonControlTemplateNoPadding}" Click="search_button_Click" >
+                    <Image Source="/Icons/search_2.png"></Image>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+
+        <Frame x:Name="Frame1" Grid.Row="1"/>
+    </Grid>
+</Page>

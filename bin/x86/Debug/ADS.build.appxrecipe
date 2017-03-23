@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUPERPC</Machine>
+    <WindowsUser>Pedro</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>23cb0f12-74db-4c51-a91b-58232a74abfe</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Joao</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\ADS.exe">
+      <PackagePath>ADS.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\SQLite.WP81\3.17.0\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\map-pin-red-lo.png">
+      <PackagePath>Assets\map-pin-red-lo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\my_location.png">
+      <PackagePath>Assets\my_location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\pin.png">
+      <PackagePath>Assets\pin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\comando_off.png">
+      <PackagePath>Icons\comando_off.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\comando.png">
+      <PackagePath>Icons\comando.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\comandomap.png">
+      <PackagePath>Icons\comandomap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\contactos.png">
+      <PackagePath>Icons\contactos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Council.PNG">
+      <PackagePath>dbicons\Council.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Airport.png">
+      <PackagePath>dbicons\Airport.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Algarve.png">
+      <PackagePath>dbicons\Algarve.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\AtHome.png">
+      <PackagePath>dbicons\AtHome.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Car.png">
+      <PackagePath>dbicons\Car.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Contacts.png">
+      <PackagePath>dbicons\Contacts.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\CrimeVictim.png">
+      <PackagePath>dbicons\CrimeVictim.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\DomesticViolence.png">
+      <PackagePath>dbicons\DomesticViolence.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Embassies.png">
+      <PackagePath>dbicons\Embassies.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Holiday.png">
+      <PackagePath>dbicons\Holiday.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Hospitals.png">
+      <PackagePath>dbicons\Hospitals.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\IamHere.png">
+      <PackagePath>dbicons\IamHere.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Links.png">
+      <PackagePath>dbicons\Links.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\SafeMarket.png">
+      <PackagePath>dbicons\SafeMarket.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\SafetyAdvice.png">
+      <PackagePath>dbicons\SafetyAdvice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Senior.png">
+      <PackagePath>dbicons\Senior.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\SpecialPrograms.png">
+      <PackagePath>dbicons\SpecialPrograms.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Squads.png">
+      <PackagePath>dbicons\Squads.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Street.png">
+      <PackagePath>dbicons\Street.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Taxi.png">
+      <PackagePath>dbicons\Taxi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Train.png">
+      <PackagePath>dbicons\Train.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Vacation.png">
+      <PackagePath>dbicons\Vacation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\Faq.png">
+      <PackagePath>Icons\Faq.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\FireDep.PNG">
+      <PackagePath>dbicons\FireDep.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Hospital.PNG">
+      <PackagePath>dbicons\Hospital.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\maps-icon.png">
+      <PackagePath>Icons\maps-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\phone.png">
+      <PackagePath>Icons\phone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\dbicons\Police.PNG">
+      <PackagePath>dbicons\Police.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\search_2.png">
+      <PackagePath>Icons\search_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\temas.png">
+      <PackagePath>Icons\temas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\Icons\white-email.png">
+      <PackagePath>Icons\white-email.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\HTML\faq_en.html">
+      <PackagePath>HTML\faq_en.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\HTML\faq_pt.html">
+      <PackagePath>HTML\faq_pt.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\HTML\reference.html">
+      <PackagePath>HTML\reference.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\ads.sqlite">
+      <PackagePath>ads.sqlite</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\ADS.xr.xml">
+      <PackagePath>ADS.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\ClosestPolice.xbf">
+      <PackagePath>Pages\ClosestPolice.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Detalhe_Entidade.xbf">
+      <PackagePath>Pages\Detalhe_Entidade.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\FirstRun.xbf">
+      <PackagePath>Pages\FirstRun.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Definicoes.xbf">
+      <PackagePath>Pages\Definicoes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Contactos.xbf">
+      <PackagePath>Pages\Contactos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Conteudo.xbf">
+      <PackagePath>Pages\Conteudo.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\ListaEntidades.xbf">
+      <PackagePath>Pages\ListaEntidades.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\SearchResults.xbf">
+      <PackagePath>Pages\SearchResults.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Subtopicos.xbf">
+      <PackagePath>Pages\Subtopicos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Temas.xbf">
+      <PackagePath>Pages\Temas.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\MainMenu.xbf">
+      <PackagePath>Pages\MainMenu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Pages\Topicos.xbf">
+      <PackagePath>Pages\Topicos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\Resources\CTemplate.xbf">
+      <PackagePath>Resources\CTemplate.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pedro\OneDrive\LES\W_P\Local\ADS\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
